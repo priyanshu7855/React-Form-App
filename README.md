@@ -1,3 +1,9 @@
+To run in you system 
+1. Either clone it or install zip file
+2. install node modules by "npm install command"
+3. run command "npm start"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
