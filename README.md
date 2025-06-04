@@ -1,6 +1,6 @@
 To run in you system 
 1. Either clone it or install zip file
-2. install node modules by "npm install command"
+2. install node modules by "npm install" command
 3. run command "npm start"
 
 
